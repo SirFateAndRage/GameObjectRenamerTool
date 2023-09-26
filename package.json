@@ -1,6 +1,6 @@
 {
     "name": "com.sirfateandfage.gameobjectrenamertool",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "displayName": "GameObjectRenamer",
     "description": "Remove numbers from GameObject names, rename GameObjects based on their associated scripts, and rename groups of GameObjects with identical names.",
     "unity": "2019.1",
